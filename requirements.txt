@@ -8,3 +8,5 @@ faiss-cpu
 streamlit
 tavily-python
 pypdf2
+numpy
+pandas
